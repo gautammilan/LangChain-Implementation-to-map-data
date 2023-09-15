@@ -11,7 +11,7 @@ import pandas as pd
 import re
 import logging
 from datetime import datetime
-OPENAI_API_KEY="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"
+OPENAI_API_KEY=""
 
 
 
